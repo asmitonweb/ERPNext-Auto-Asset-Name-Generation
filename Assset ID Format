@@ -1,0 +1,14 @@
+{Item Code}-{Location Code}-{Serial Number}
+
+Item Code → already generated when creating Item (WOTA-UT-OD)
+
+Location Code → first 2 letters of each word in the Location (e.g., New York → NEYO)
+
+Serial Number → system-assigned running number (####)
+
+
+| Item Code  | Location   | Asset ID                   |
+| ---------- | ---------- | -------------------------- |
+| WOTA-UT-OD | New York   | **WOTA-UT-OD-NEYO-0001** ✅ |
+| DICH-MF-KT | Dubai Mall | **DICH-MF-KT-DUMA-0002** ✅ |
+| STLA-SB-HL | Singapore  | **STLA-SB-HL-SI-0003** ✅   |

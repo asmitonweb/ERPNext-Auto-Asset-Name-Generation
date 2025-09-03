@@ -1,0 +1,14 @@
+{First 2 letters of First word}{First 2 letters of Second word}
+-
+{First letter of 1st word of Brand}{First letter of 2nd word of Brand}
+-
+{First letter of 1st word of Item Group}{First letter of 2nd word of Item Group}
+-
+{Serial Number}
+
+
+Examples
+
+Item Name: Work Table, Brand: Acme Furniture, Group: Furniture → WOTA-AF-FUR-0001
+
+Item Name: Office Chair, Brand: Good Home, Group: Seating → OFCH-GH-SEA-0001
