@@ -1,0 +1,17 @@
+         Item Master (Catalog)
+                │
+                ▼
+   Purchase Invoice / Purchase Receipt
+                │
+                ▼
+   Item marked as "Is Fixed Asset?"
+                │
+                ▼
+   Asset Creation (via Asset Category rules)
+                │
+                ▼
+   Asset Document (Individual asset records)
+                │
+                ▼
+   Asset Lifecycle Tracking
+   (Capitalization → Depreciation → Transfer → Disposal)
